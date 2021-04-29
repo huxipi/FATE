@@ -10,6 +10,8 @@ FATE (Federated AI Technology Enabler) 是微众银行AI部门发起的开源项
 
 FATE官方网站：<https://fate.fedai.org/>
 
+https://zhuanlan.zhihu.com/p/79284686?utm_source=wechat_session
+
 ## FATE中的联邦学习算法
 
 FATE目前支持三种类型联邦学习算法：横向联邦学习、纵向联邦学习以及迁移学习。算法细节请参考文档 [python/federatedml](./python/federatedml) 。
